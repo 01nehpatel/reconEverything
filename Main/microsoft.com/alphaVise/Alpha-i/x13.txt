@@ -1,0 +1,6 @@
+iwp.manage-selfhost.microsoft.com
+iwp.sconline-int.microsoft.com
+iwsexterndev.partners.extranet.microsoft.com
+iwsextern.partners.extranet.microsoft.com
+iwsolve.partners.extranet.microsoft.com
+i.wut.smartscreen.microsoft.com
