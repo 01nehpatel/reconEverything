@@ -1,0 +1,9 @@
+xuzcprdiis01.xuzccm1.mfg.selfhost.corp.microsoft.com
+xuzcprdiis02.xuzccm1.mfg.selfhost.corp.microsoft.com
+xuzcprdsql03.xuzccm1.mfg.selfhost.corp.microsoft.com
+xuzcprdsql04.xuzccm1.mfg.selfhost.corp.microsoft.com
+xuzcprdwef01.xuzccm1.mfg.selfhost.corp.microsoft.com
+xuzc--tip1.xuzccm1.mfg.selfhost.corp.microsoft.com
+x.vista.gallery.microsoft.com
+xvsec.video.microsoft.com
+xzworks6.fareast.corp.microsoft.com

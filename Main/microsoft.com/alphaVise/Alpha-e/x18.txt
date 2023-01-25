@@ -1,0 +1,10 @@
+extnetsrv.microsoft.com
+extranetproxy.mtps.microsoft.com
+ext-s31r0301.masd.stbtest.microsoft.com
+ext-s31r031.masd.sbtest.microsoft.com
+extsky2.microsoft.com
+extsky.microsoft.com
+extsts.partners.extranet.microsoft.com
+exwatsonpipeline.scale.m365core-alt.microsoft.com
+exwatsonpipeline.scale.m365core.microsoft.com
+ezio.cpusre.microsoft.com

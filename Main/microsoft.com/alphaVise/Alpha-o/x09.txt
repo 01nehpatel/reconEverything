@@ -1,0 +1,9 @@
+ov-ppe-ev.microsoft.com
+ov-q.microsoft.com
+ovwtt.parttest.extranettest.microsoft.com
+owa.exchange.microsoft.com
+owa.microsoft.com
+owa.myworkspace.microsoft.com
+ownericmtestharsha.ustcms.microsoft.com
+oxa.microsoft.com
+oysurvey.research.microsoft.com
